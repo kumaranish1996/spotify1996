@@ -1,0 +1,155 @@
+*{
+    padding:0px;
+    margin:0px;
+  }
+
+  .first-page{
+    display: flex;
+    position: relative;
+  }
+  .first-sidebar{
+    background-color: black;
+    width: 20%;
+    color:aliceblue;
+  }
+  
+  .spotify{
+    display: flex;
+    padding:10px 15px;
+  }
+  
+  .spotify-logo{
+    padding:20px 0px;
+    font-size: 30px;
+  }
+  
+  
+  .spotify .spotify1 {
+    padding:20px 9px;
+  }
+
+  .home{
+    display: flex;
+    padding:10px 15px;
+  }
+
+ .home .home1{
+    padding:0px 15px;
+ }
+
+ .create-playlist{
+  display: flex;
+  padding:25px 15px 15px;
+ }
+
+ .create-playlist .home1{
+  padding:0px 15px;
+}
+
+.liked-songs{
+  display: flex;
+  padding:0px 15px 5px;
+}
+
+
+.liked-songs .home1{
+  padding:0px 15px;
+}
+
+.your-episodes{
+  display: flex;
+  padding:10px 15px;
+}
+
+.your-episodes .home1{
+  padding:0px 15px ;
+}
+
+.fav{
+  padding:10px 15px  ;
+}
+.daily-mix {
+  padding:0px 15px  ;
+}
+
+.discover-weekly{
+  padding:10px 15px  ;
+}
+
+.first-page1{
+  background-color: rgb(69, 61, 61);
+  width:100%;
+  color:rgb(254, 254, 253);
+}
+.arrow{
+  display:flex;
+justify-content: space-between;
+padding:20px 10px;
+}
+.photo{
+  display:flex;
+  background-color: black;
+  padding:0px 5px;
+  align-items:center;
+  justify-content: space-evenly;
+}
+
+.arrow2{
+  font-size: 10px;
+  padding:0px 10px;
+  background-color: black;
+  border-radius: 100%;
+}
+.photo img{
+  height:20px;
+  padding:5px 0px 0px;
+}
+
+.angle{
+  padding:2px 5px 5px;
+}
+.angle1{
+  padding:0px 9px;
+}
+
+.good-morning .good-morning1{
+  padding:0px 30px;
+}
+
+.liked{
+  padding:10px 30px;
+  display:grid;
+  grid-template-columns: 35% 35% 35%;
+}
+.liked img{
+ padding:10px 10px;
+ height:50px;
+
+}
+.art2 img{
+  height:100px;
+  padding:20px 30px;
+  width:60%;
+}
+.art1{
+  display:grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+
+.footer{
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top:-60px;
+}
+
+.create-playlist1{
+  padding:290px 0px 90px;
+}
+
+.first-page12{
+  background-color: rgb(69, 61, 61);
+  width:100%;
+  color:rgb(254, 254, 253);
+}
